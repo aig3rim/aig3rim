@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm an engineer turned data scientist who loves finding insights from data. I strongly believe that by having a better understanding of data and applying machine learning algorithms we can make the world a better place. 
 
-Currently, I'm a Data Scientist at Rakuten helping external clinets to make a better business decisions through providing insights. In my free time, I enjoy learning new things and share things I've leanred trough my blog posts and knowledge share talks at my company.
+Currently, I'm a Data Scientist at Rakuten helping external clinets to make a better business decisions through providing insights. In my free time, I enjoy learning new things and share my knowledge through my blog posts and knowledge share talks at my company.
 
 Outside of work, I also...
 - 📝 Write about data science, machine learning and marketing
