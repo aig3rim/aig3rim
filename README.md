@@ -2,7 +2,7 @@
 ### こんにちは　🌸
 
 <!--
-**aigera2007/aigera2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aig3rim/aig3rim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
