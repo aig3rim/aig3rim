@@ -25,7 +25,7 @@ Outside of work, I also...
 - 🏃‍♀️ Run 7-8 km 3 times a week
 - 📚 Read about cognitive & social psychology, enjoy classic and contemporary literature
 - 🇯🇵 Study Japanese (日本語)
-- 🌱 I'm currently learning/improving knowledge in statistics, deep learning, story-telling, data structures & algorithms.
+- 🌱 I'm currently learning/improving knowledge in data structures & algorithms, statistics, deep learning, story-telling, while taking a challenge #100daysofdatascience
 
 Find me around the web 🌎:
 
