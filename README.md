@@ -26,7 +26,7 @@ Outside of work, I also...
 - 📚 Read about cognitive & social psychology, enjoy classic and contemporary literature
 - 🇯🇵 Study Japanese (日本語)
 - 🐶 Walk and go to dog parks with our dog Taquito
-- 🌱 I'm currently learning/improving knowledge in data structures & algorithms, statistics, deep learning, story-telling, while taking a challenge #100daysofdatascience
+- 🌱 I'm currently learning/improving knowledge in data structures & algorithms, statistics, deep learning, story-telling
 
 Find me around the web 🌎:
 
