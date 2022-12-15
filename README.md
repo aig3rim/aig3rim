@@ -24,7 +24,6 @@ Outside of work, I also...
 - 📝 Write about data science, machine learning and marketing
 - 🏃‍♀️ Run 7-8 km 3 times a week
 - 📚 Read about cognitive & social psychology, enjoy classic and contemporary literature
-- 🇯🇵 Study Japanese (日本語)
 - 🐶 Walk and go to dog parks with our dog Taquito
 - 🌱 I'm currently learning/improving knowledge in data structures & algorithms, statistics, deep learning, story-telling
 
