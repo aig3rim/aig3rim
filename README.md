@@ -25,7 +25,7 @@ Outside of work, I also...
 - 🏃‍♀️ Run 7-8 km 3 times a week
 - 📚 Read about cognitive & social psychology, enjoy classic and contemporary literature
 - 🐶 Walk and go to dog parks with our dog Taquito
-- 🌱 I'm currently learning/improving knowledge in data structures & algorithms, statistics, deep learning, story-telling
+- 🌱 I'm currently learning/improving knowledge in statistics & probability, deep learning, story-telling
 
 Find me around the web 🌎:
 
